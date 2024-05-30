@@ -2,7 +2,7 @@
 
 Welcome to the **Stack of Pictures in C** repository! This project demonstrates the implementation of a stack data structure specifically designed for handling images. The stack supports basic operations such as push, pop, and peek, enabling efficient management of a collection of pictures.
 
-![Screenshot of the application](https://github.com/arpit2212/Stack-of-pictures-/blob/main/stack_of_pictures.exe)
+![Screenshot of the application](https://github.com/arpit2212/Stack-of-pictures-/blob/main/Screenshot%202024-05-31%20030220.png)
 
 ## Features
 
